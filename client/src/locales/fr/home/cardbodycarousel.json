@@ -1,0 +1,36 @@
+{
+ 
+    "contact_seller": "Contacter l'agence",
+ 
+ 
+  "edit_post": "Modifier la Publication",
+  "edit_post_admin": "Modifier (Admin)",
+  "delete_post": "Supprimer la Publication",
+  "delete_post_admin": "Supprimer (Admin)",
+  "share": "Partager",
+  "save": "Sauvegarder",
+  "saved": "Sauvegardé",
+  "saving": "Sauvegarde en cours...",
+  "report_post": "Signaler la Publication",
+  "cancel": "Annuler",
+  "details": "Détails",
+  "tap_to_see_info": "Touchez pour voir les infos",
+  "default_category": "Artiste",
+  "default_share_title": "Regardez cette publication",
+  "default_share_text": "Jetez un œil à cette publication",
+  "no_permission_delete": "Vous n'avez pas la permission de supprimer cette publication",
+  "no_permission_edit": "Vous n'avez pas la permission de modifier cette publication",
+  "deleting_post": "Suppression de la publication...",
+  "post_deleted_success": "Publication supprimée avec succès",
+  "error_deleting_post": "Erreur lors de la suppression de la publication",
+  "post_reported": "Publication signalée",
+  "confirm_delete": "Confirmer la Suppression",
+  "delete_confirmation_message": "Êtes-vous sûr de vouloir supprimer cette publication ? Cette action ne peut pas être annulée.",
+  "share_post": "Partager la publication",
+  "close": "Fermer",
+  "title2": "Connexion Requise",
+  "message2": "Vous devez vous connecter pour effectuer cette action",
+  "login2": "Se Connecter",
+  "register2": "S'Inscrire",
+  "close2": "Fermer"
+}
