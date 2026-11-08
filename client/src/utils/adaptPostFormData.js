@@ -21,7 +21,9 @@ const DETAIL_FIELDS = {
       'typeVoyage', 'niveauConfort', 'publicCible',
     ],
     hajj: [
-      'destinacionhadj', 'datedepar', 'fecharegreso', 'duracionviaje',
+      'type',                     // 👈 AÑADIR ESTA LÍNEA
+      'destination',
+      'datedepar', 'fecharegreso', 'duracionviaje',
       'mesInicio', 'mesFin', 'temporada', 'anio',
       'transporte', 'tipoTransporte', 'companiaTransporte',
       'nombredelhotel', 'adresshotel', 'estrellas', 'serviciosdelhotel',
